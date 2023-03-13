@@ -1,0 +1,10 @@
+﻿0:55 priyanshu BHATTACHAJEE 1:05 CV 3:40 course URL 4:40 Examples Pokemon, Ikea Place 9:30 Markerless 10:12 tracking recognition Minecraft 11:58 ... Pokemon  12:40 marker = AI 13:35 algo 
+16:09 anatomy ++++ +++++++ 18:39 location 21:37 projection hologram 24:44 Tesla IA 26:17 VR 29:32 military 30:05 Occulus 31:00 Mixed ++++ +++++++ 33:35 military Microsoft 34:47 = extented reality XR ('HUD'+ interactive ... effectors)
+
+37:02 Module 2 : Unity  40:43 install 41:45 download LTS 45:30 UI 48:00 see errors 49:11 light 49:30 another Object 50:08 Inspector : modifying components, options 51:30 camera 52:30 play button 53:13 Assets  54:30 another view 55:10 TOOLS game objects, with options 58:00 all tools Middle-mouse 59:15 Inspector menu Move 1:00:49 reset
+
+1:21 color green box ... renderer 2:11 materials skin 3:40 drag 5:43 scene 6:35 see C# script 7:20 project tidy managing 9:05 dir for each file 9:55 physics and collision 10:05 UI designing 10:28 C# script Compiled 11:33 SublimeText 12:55 class 13:35 frame 15:00 play 15:40 nothing bug ? ... to Object Mesh 18:50 see collider 19:00 prefab storage collection 19:45 FPS, 20:50 Package 22:16 child Obj 22:55 empty 23:10 Ctl-d duplicate (breadcrumbs : no SHADOW ...  lbl551) 23:55 COLLISION engine 25:38 new Obj 26:00 see shadow lbl551 26:39 see GameObject at Right 27:25 nothing falling bug ? 27:55 see Game tab, split view 28:20 REMEMBER 28:45 rigid body 29:48 collision detection, Box collider 32:05 shapes 32:42 pb with colliders : CPU intensive <- accurate shape 33:25  collision detection -> discrete, but less accurate 35:20 audio src Graph script ++++ 37:57 volume 38:20 own UI 39:08 delete 39:22 2D view, Canvas 41:14 caneva view 41:35 background panel Image 42:47 scale 42:49 MODULES 43:05 Text  43:10 Android  46:16 BUTTON 43:40 Unity takes time, hightlight 48:50 onClick Desactivate ++++ 51:00 Image 
+
+51:53 C# 57:25 System directive 57:55 Namespaces = Collections 58:30 et AV console code 0:42 methods functions
+
+2:02:00
